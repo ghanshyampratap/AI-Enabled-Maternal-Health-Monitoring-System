@@ -33,14 +33,12 @@ Data is collected in real-time and analyzed to detect early signs of complicatio
 
 ### 🖼️ Project Images
 
-![Device Prototype](images/device-prototype.jpg)  
-*A working prototype of the wearable maternal health monitoring system.*
+![image](https://github.com/user-attachments/assets/f748acc7-fef5-437b-85d9-32a855659dcf)
+![image](https://github.com/user-attachments/assets/69267c8b-19ea-4e57-b5c9-a9c06b371a97)
+![image](https://github.com/user-attachments/assets/20a27946-681b-4d53-a5fe-c0cfd3ecab5f)
+![image](https://github.com/user-attachments/assets/43cf9e64-d4eb-4737-b4e6-887dbbe013b3)
 
-![Sensor Integration](images/sensor-integration.jpg)  
-*Sensors integrated into the wearable to monitor vital signs.*
 
-![Mobile App Interface](images/mobile-app.jpg)  
-*Mobile app for real-time data access and alerts.*
 
 ### 🎬 Video Demonstration
 
@@ -72,7 +70,11 @@ Our sustainable model includes:
 - ✅ Designed for **scalability and local manufacturing**
 - ✅ Combines **hardware + AI** for predictive care
 
----
+### 🌐 Use Our Project
+
+Try our live platform to view real-time data and insights from the device:
+
+👉 [Visit Our Website]([https://yourwebsite.com](https://breaking-bad-frontend.vercel.app/))
 
 ### 🚀 Future Work
 
