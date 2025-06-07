@@ -44,6 +44,8 @@ Data is collected in real-time and analyzed to detect early signs of complicatio
 ![image](https://github.com/user-attachments/assets/69267c8b-19ea-4e57-b5c9-a9c06b371a97)  
 ![image](https://github.com/user-attachments/assets/20a27946-681b-4d53-a5fe-c0cfd3ecab5f)  
 ![image](https://github.com/user-attachments/assets/43cf9e64-d4eb-4737-b4e6-887dbbe013b3)
+![WhatsApp Image 2025-06-07 at 16 29 18_636649fb](https://github.com/user-attachments/assets/270dfc88-bd82-4e67-88ba-503f5cec28ae)
+
 
 ---
 
