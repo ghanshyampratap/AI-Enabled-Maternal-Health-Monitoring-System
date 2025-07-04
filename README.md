@@ -1,4 +1,4 @@
-## 💡 **Affordable AI-Enabled Maternal Health Monitoring System**
+## 💡 **Affordable AI-Enabled Health Monitoring System**
 
 ### 🩺 Overview
 
