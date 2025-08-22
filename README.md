@@ -52,7 +52,7 @@ Data is collected in real-time and analyzed to detect early signs of complicatio
 ### 🎬 Video Demonstration
 
 📽️ Watch the video showcasing how the system works in real-time:  
-[▶️ Click to Watch on YouTube](https://www.youtube.com/watch?v=your_video_link)
+[▶️ Click to Watch ]([https://www.youtube.com/watch?v=your_video_link](https://drive.google.com/drive/folders/1-PxSylIRaWbKPORKo1JXeQCSKFr9Bfxv?usp=sharing))
 
 ---
 
