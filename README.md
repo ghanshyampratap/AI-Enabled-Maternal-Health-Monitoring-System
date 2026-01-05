@@ -1,12 +1,12 @@
-## 💡 **Affordable AI-Enabled Health Monitoring System**
+##  **Affordable AI-Enabled Health Monitoring System**
 
-### 🩺 Overview
+###  Overview
 
 Our project focuses on **revolutionizing maternal healthcare** by developing a **low-cost, AI-driven wearable device** that monitors vital health parameters for pregnant women. The system is designed to bridge the gap in prenatal care access, especially in underserved regions, by offering a **portable, affordable, and intelligent solution**.
 
 ---
 
-### 🎯 Problem Statement
+###  Problem Statement
 
 Traditional maternal health monitoring systems are:
 - **Expensive** (market cost ≈ ₹37,000)
@@ -15,7 +15,7 @@ Traditional maternal health monitoring systems are:
 
 ---
 
-### ✅ Our Solution
+###  Our Solution
 
 We developed a **compact, wearable health monitoring device** powered by AI, capable of tracking:
 - **Fetal heart rate**
@@ -28,17 +28,17 @@ Data is collected in real-time and analyzed to detect early signs of complicatio
 
 ---
 
-### 🔍 Key Features
+###  Key Features
 
-- 📉 **Ultra-low cost**: Only ₹800 without display, ₹1300 with display  
-- 📲 **Mobile and hospital connectivity** via Bluetooth/Wi-Fi  
-- 🧠 **AI-powered analytics** for anomaly detection and prediction  
-- 💬 **Remote alerts** sent to doctors and caregivers  
-- 🔋 **Battery-efficient design** for continuous field operation
+-  **Ultra-low cost**: Only ₹800 without display, ₹1300 with display  
+-  **Mobile and hospital connectivity** via Bluetooth/Wi-Fi  
+-  **AI-powered analytics** for anomaly detection and prediction  
+-  **Remote alerts** sent to doctors and caregivers  
+-  **Battery-efficient design** for continuous field operation
 
 ---
 
-### 🖼️ Project Images
+###  Project Images
 
 ![image](https://github.com/user-attachments/assets/f748acc7-fef5-437b-85d9-32a855659dcf)  
 ![image](https://github.com/user-attachments/assets/69267c8b-19ea-4e57-b5c9-a9c06b371a97)  
@@ -49,14 +49,14 @@ Data is collected in real-time and analyzed to detect early signs of complicatio
 
 ---
 
-### 🎬 Video Demonstration
+###  Video Demonstration
 
 📽️ Watch the video showcasing how the system works in real-time:  
 [▶️ Click to Watch ](https://drive.google.com/drive/folders/1-PxSylIRaWbKPORKo1JXeQCSKFr9Bfxv?usp=sharing)
 
 ---
 
-### 👩‍⚕️ Target Customers
+###  Target Customers
 
 - **Pregnant women**, especially in rural and underserved areas  
 - **Hospitals** and **community health centers**  
@@ -65,33 +65,33 @@ Data is collected in real-time and analyzed to detect early signs of complicatio
 
 ---
 
-### 💸 Business Model & Revenue Streams
+###  Business Model & Revenue Streams
 
 Our sustainable model includes:
-- 📦 **Device mass sales**  
-- 🏥 **Hospital referrals**  
-- 🤖 **AI software licensing** to healthcare providers
+-  **Device mass sales**  
+-  **Hospital referrals**  
+-  **AI software licensing** to healthcare providers
 
 ---
 
-### 💡 Why It Works
+###  Why It Works
 
-- ✅ 95% **cost reduction** compared to existing systems  
-- ✅ Addresses a **real-world healthcare gap**  
-- ✅ Designed for **scalability and local manufacturing**  
-- ✅ Combines **hardware + AI** for predictive care
+-  95% **cost reduction** compared to existing systems  
+-  Addresses a **real-world healthcare gap**  
+-  Designed for **scalability and local manufacturing**  
+-  Combines **hardware + AI** for predictive care
 
 ---
 
-### 🌐 Use Our Project
+###  Use Our Project
 
 Try our live platform to view real-time data and insights from the device:
 
-👉 [Visit Our Website](https://breaking-bad-frontend.vercel.app/)
+ [Visit Our Website](https://breaking-bad-frontend.vercel.app/)
 
 ---
 
-### 🚀 Future Work
+###  Future Work
 
 Next-gen enhancements will include:
 - **Non-invasive glucose monitoring** using a 940nm infrared sensor  
@@ -100,6 +100,6 @@ Next-gen enhancements will include:
 
 ---
 
-### 🌍 Impact
+### Impact
 
 By combining **affordability, accessibility, and intelligence**, this project has the potential to **reduce maternal mortality**, enable **early interventions**, and provide **dignified healthcare for all women**, regardless of geography or income level.
