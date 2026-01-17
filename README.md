@@ -47,17 +47,18 @@ We designed a portable, affordable, and AI-powered health monitoring device that
 
 ## Hardware Components Used
 
-| Component | Description |
-|--------|------------|
-| ESP32 Development Board | Main controller with built-in Wi-Fi and Bluetooth |
-| MAX30102 Pulse Oximeter | Measures SpO₂ and heart rate |
-| Pulse Sensor (Finger Type) | Real-time heart rate sensing |
-| 0.96” OLED Display (SSD1306, I2C) | Displays vital parameters and system status |
+| Component | What it does |
+|----------|--------------|
+| ESP32 Development Board | Controls the system and sends data using Wi-Fi and Bluetooth |
+| MAX30102 Pulse Oximeter | Measures heart rate and blood oxygen level (SpO₂) |
+| Pulse Sensor (Finger Type) | Measures heart rate |
+| 0.96" OLED Display (SSD1306, I2C) | Shows health data on the screen |
 | Temperature Sensor (DS18B20 / LM35) | Measures body temperature |
-| 3.7V Li-ion / Li-Po Battery | Portable power source |
-| Battery Charging and Protection Module (TP4056) | Safe battery charging and protection |
-| Buzzer / LED Indicator | Emergency and status indication |
-| Jumper Wires and Connectors | Prototyping and interconnections |
+| 3.7V Li-ion / Li-Po Battery | Provides power to the device |
+| Battery Charging Module (TP4056) | Charges the battery safely |
+| Buzzer / LED | Gives alert and status indication |
+| Jumper Wires and Connectors | Used to connect all components |
+
 
 
 ## System Working
