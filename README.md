@@ -1,105 +1,130 @@
-##  **Affordable AI-Enabled Health Monitoring System**
+# Affordable AI-Enabled Health Monitoring System
 
-###  Overview
+## Overview
 
-Our project focuses on **revolutionizing maternal healthcare** by developing a **low-cost, AI-driven wearable device** that monitors vital health parameters for pregnant women. The system is designed to bridge the gap in prenatal care access, especially in underserved regions, by offering a **portable, affordable, and intelligent solution**.
-
----
-
-###  Problem Statement
-
-Traditional maternal health monitoring systems are:
-- **Expensive** (market cost ≈ ₹37,000)
-- **Inaccessible** to low-income and rural communities
-- Often **reliant on hospital infrastructure** and trained personnel
-
----
-
-###  Our Solution
-
-We developed a **compact, wearable health monitoring device** powered by AI, capable of tracking:
-- **Fetal heart rate**
-- **Maternal heart rate**
-- **Temperature**
-- **SpO₂ levels**
-- **Uterine contractions**
-
-Data is collected in real-time and analyzed to detect early signs of complications.
-
----
-
-###  Key Features
-
--  **Ultra-low cost**: Only ₹800 without display, ₹1300 with display  
--  **Mobile and hospital connectivity** via Bluetooth/Wi-Fi  
--  **AI-powered analytics** for anomaly detection and prediction  
--  **Remote alerts** sent to doctors and caregivers  
--  **Battery-efficient design** for continuous field operation
-
----
-
-###  Project Images
-
-![image](https://github.com/user-attachments/assets/f748acc7-fef5-437b-85d9-32a855659dcf)  
-![image](https://github.com/user-attachments/assets/69267c8b-19ea-4e57-b5c9-a9c06b371a97)  
-![image](https://github.com/user-attachments/assets/20a27946-681b-4d53-a5fe-c0cfd3ecab5f)  
-![image](https://github.com/user-attachments/assets/43cf9e64-d4eb-4737-b4e6-887dbbe013b3)
-![WhatsApp Image 2025-06-07 at 16 29 18_636649fb](https://github.com/user-attachments/assets/270dfc88-bd82-4e67-88ba-503f5cec28ae)
+This project aims to revolutionize maternal healthcare by developing a low-cost, AI-enabled wearable health monitoring system for pregnant women.  
+The device continuously monitors critical maternal and fetal health parameters and enables early detection of complications, especially in rural and underserved regions.
 
 
----
+## Problem Statement
 
-###  Video Demonstration
+Existing maternal health monitoring solutions suffer from:
 
-📽️ Watch the video showcasing how the system works in real-time:  
-[▶️ Click to Watch ](https://drive.google.com/drive/folders/1-PxSylIRaWbKPORKo1JXeQCSKFr9Bfxv?usp=sharing)
+- High cost (₹30,000–₹40,000 range)
+- Limited accessibility in rural and low-income areas
+- Dependency on hospital infrastructure and skilled professionals
+- Lack of continuous and remote monitoring
 
----
 
-###  Target Customers
+## Proposed Solution
 
-- **Pregnant women**, especially in rural and underserved areas  
-- **Hospitals** and **community health centers**  
-- **NGOs** focused on maternal health  
-- **Insurance providers** seeking affordable prenatal care support
+We designed a portable, affordable, and AI-powered health monitoring device that:
 
----
+- Continuously captures vital health parameters
+- Uses AI-based anomaly detection
+- Sends real-time alerts to doctors and caregivers
+- Works both with and without internet connectivity
 
-###  Business Model & Revenue Streams
+## Key Features
 
-Our sustainable model includes:
--  **Device mass sales**  
--  **Hospital referrals**  
--  **AI software licensing** to healthcare providers
+- Ultra-low cost  
+  - ₹800 (without display)  
+  - ₹1300 (with display)
+- Wireless connectivity (Wi-Fi / Bluetooth)
+- AI-based analytics for early risk prediction
+- Emergency alerts via buzzer, LED, and mobile notifications
+- Battery-powered and energy-efficient
+- Suitable for remote and rural deployment
 
----
 
-###  Why It Works
+## Health Parameters Monitored
 
--  95% **cost reduction** compared to existing systems  
--  Addresses a **real-world healthcare gap**  
--  Designed for **scalability and local manufacturing**  
--  Combines **hardware + AI** for predictive care
+- Maternal heart rate  
+- Blood oxygen level (SpO₂)  
+- Body temperature  
+- Fetal heart activity (indirect monitoring)
 
----
 
-###  Use Our Project
+## Hardware Components Used
 
-Try our live platform to view real-time data and insights from the device:
+| Component | Description |
+|--------|------------|
+| ESP32 Development Board | Main controller with built-in Wi-Fi and Bluetooth |
+| MAX30102 Pulse Oximeter | Measures SpO₂ and heart rate |
+| Pulse Sensor (Finger Type) | Real-time heart rate sensing |
+| 0.96” OLED Display (SSD1306, I2C) | Displays vital parameters and system status |
+| Temperature Sensor (DS18B20 / LM35) | Measures body temperature |
+| 3.7V Li-ion / Li-Po Battery | Portable power source |
+| Battery Charging and Protection Module (TP4056) | Safe battery charging and protection |
+| Buzzer / LED Indicator | Emergency and status indication |
+| Jumper Wires and Connectors | Prototyping and interconnections |
 
- [Visit Our Website](https://breaking-bad-frontend.vercel.app/)
 
----
+## System Working
 
-###  Future Work
+1. Sensors collect maternal and fetal health data  
+2. ESP32 processes sensor data in real time  
+3. AI algorithms analyze trends and detect anomalies  
+4. Alerts are triggered if abnormal patterns are detected  
+5. Data is transmitted to mobile applications, web dashboards, or hospital systems
 
-Next-gen enhancements will include:
-- **Non-invasive glucose monitoring** using a 940nm infrared sensor  
-- **Noise filtering** via notch filters for accurate readings  
-- Broader health tracking to benefit **diabetic and high-risk patients**
 
----
+## Project Images
 
-### Impact
+![Prototype Image](https://github.com/user-attachments/assets/f748acc7-fef5-437b-85d9-32a855659dcf)  
+![Prototype Image](https://github.com/user-attachments/assets/69267c8b-19ea-4e57-b5c9-a9c06b371a97)  
+![Prototype Image](https://github.com/user-attachments/assets/20a27946-681b-4d53-a5fe-c0cfd3ecab5f)  
+![Prototype Image](https://github.com/user-attachments/assets/43cf9e64-d4eb-4737-b4e6-887dbbbe013b3)  
+![Prototype Image](https://github.com/user-attachments/assets/270dfc88-bd82-4e67-88ba-503f5cec28ae)
 
-By combining **affordability, accessibility, and intelligence**, this project has the potential to **reduce maternal mortality**, enable **early interventions**, and provide **dignified healthcare for all women**, regardless of geography or income level.
+
+
+## Video Demonstration
+
+Live working demonstration:  
+https://drive.google.com/drive/folders/1-PxSylIRaWbKPORKo1JXeQCSKFr9Bfxv?usp=sharing
+
+
+## Live Platform
+
+Real-time sensor data and analytics can be accessed at:  
+https://breaking-bad-frontend.vercel.app/
+
+
+## Target Users
+
+- Pregnant women, especially in rural and underserved areas  
+- Hospitals and maternity clinics  
+- Community health centers  
+- NGOs working in maternal healthcare  
+- Insurance and healthcare service providers
+
+
+## Business Model
+
+- Mass production and device sales  
+- Hospital and NGO partnerships  
+- AI software licensing and analytics services  
+- Subscription-based remote monitoring
+
+
+## Why This Project Stands Out
+
+- Approximately 95% cost reduction compared to existing systems  
+- Combination of AI and IoT for preventive healthcare  
+- Portable, scalable, and locally manufacturable design  
+- Addresses a real-world healthcare accessibility gap
+
+
+## Future Enhancements
+
+- Non-invasive glucose monitoring using a 940 nm infrared sensor  
+- Advanced noise filtering using notch filters  
+- Full ECG integration (AD8232)  
+- AI-based pregnancy risk scoring  
+- Expansion to support diabetic and high-risk patients
+
+
+## Social Impact
+
+This system enables early diagnosis, supports timely medical intervention, and contributes to reducing maternal mortality by providing affordable and accessible healthcare solutions.
